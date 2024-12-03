@@ -5,10 +5,10 @@
 /appdata/encryption.key
 /appdata/password_store.db
 index.py
+Download.spec
 
 
 # testing
-/src/__pycache__/
 /coverage
 /__pycache__
 

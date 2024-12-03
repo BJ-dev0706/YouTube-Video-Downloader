@@ -125,3 +125,4 @@ progress_bar.pack(pady=10)
 
 # Run the customtkinter event loop
 root.mainloop()
+
