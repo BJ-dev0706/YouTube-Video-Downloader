@@ -30,11 +30,3 @@ pip install -r requirements.txt
 ```bash
 python Download.py
 ```
-
-
-### Changes made:
-- Added `requirements.txt` section to specify dependencies.
-- Added installation and usage instructions for the project.
-- Mentioned the specific versions for `yt-dlp` and `customtkinter` for consistency.
-
-Feel free to copy and paste this updated version into your `README.md`.
