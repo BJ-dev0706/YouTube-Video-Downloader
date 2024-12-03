@@ -25,7 +25,9 @@ Run the following command to install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
+```bash
 python Download.py
 ```
 
