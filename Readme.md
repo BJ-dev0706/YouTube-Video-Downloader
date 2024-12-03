@@ -21,8 +21,16 @@ To run this project, you need the following libraries:
 
 ### Install Dependencies
 
-To install the required libraries, run the following command:
+Run the following command to install the dependencies:
 
 ```bash
-pip install yt-dlp customtkinter
+pip install -r requirements.txt
 
+
+
+### Changes made:
+- Added `requirements.txt` section to specify dependencies.
+- Added installation and usage instructions for the project.
+- Mentioned the specific versions for `yt-dlp` and `customtkinter` for consistency.
+
+Feel free to copy and paste this updated version into your `README.md`.
